@@ -1,6 +1,5 @@
 # Astro Guide React
 
-mene astrolojiye aid sale bir sayt qur ve reactdan istifade et
 
 This project was built with [Lovable](https://lovable.dev).
 
